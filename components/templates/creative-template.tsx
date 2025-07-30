@@ -248,13 +248,13 @@ export default function CreativeTemplate({ data }: CreativeTemplateProps) {
         </section>
       )}
 
-      {/* Portfolio Section - Creative Grid */}
+      {/* Projects Section - Creative Grid */}
       {data.portfolio.some((project) => project.title.trim()) && (
         <section id="portfolio-section" className="py-20">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold bg-gradient-to-r from-pink-600 via-purple-600 to-blue-600 bg-clip-text text-transparent mb-4">
-                Featured Work
+                Featured Projects
               </h2>
               <div className="w-24 h-1 bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 mx-auto rounded-full"></div>
             </div>
