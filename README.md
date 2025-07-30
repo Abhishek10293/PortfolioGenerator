@@ -12,7 +12,7 @@ A modern, colorful React application for creating beautiful dynamic portfolios w
 - **Edit & Update**: Full CRUD operations for managing portfolios
 - **Local Storage**: Data persistence without requiring a database
 
-### ️ **Techn Stack**
+## ️ **Tech Stack
 
 - **Next.js 15**: Latest React framework with App Router
 - **TypeScript**: Full type safety and better development experience
