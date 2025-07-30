@@ -12,25 +12,7 @@ A modern, colorful React application for creating beautiful dynamic portfolios w
 - **Edit & Update**: Full CRUD operations for managing portfolios
 - **Local Storage**: Data persistence without requiring a database
 
-
-### **Design & UI**
-
-- **Colorful Themes**: Each form section has unique gradient themes (purple, blue, green, orange, etc.)
-- **Responsive Design**: Works perfectly on desktop, tablet, and mobile
-- **Smooth Animations**: Hover effects, transitions, and scroll animations
-- **Glass Morphism**: Modern frosted glass effects throughout the UI
-- **Professional Templates**: Clean, modern designs suitable for any profession
-
-
-### **Mock Profiles**
-
-- **4 Demo Profiles**: Pre-loaded with realistic professional data
-- **Real Images**: Professional headshots from Unsplash
-- **Diverse Roles**: Full Stack Developer, Software Engineer, UI Designer, AI Engineer
-- **Complete Data**: Skills, projects, testimonials, and contact information
-
-
-### ️ **Technical Features**
+### ️ **Techn Stack**
 
 - **Next.js 15**: Latest React framework with App Router
 - **TypeScript**: Full type safety and better development experience
